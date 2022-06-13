@@ -6,19 +6,26 @@ https://www.academia.edu/73710547/Brain_Tumor_Detection_using_Deep_Learning
 
 # Algorithm Description
 So, we have used **Convolutional neural networks** to identify whether a person has brain tumour or not, as we all know, how sophisticated CNNs are and how they can learn almost anything like a brain does, this can help us save a lot of time and also giving almost accurate predictions for the disease. As we discussed convolutional neural networks are very sophisticated and more advanced version of neural networks, these are very superior to other neural networks which works better with images and audio/speech input signal. A CNN network comprises of 3 important layers such as a convolutional layer, pooling layer and fully connected layer. we can have as many layers as possible depending on the domain and project we are working on.
-**Reference: **https://www.ibm.com/cloud/learn/convolutional-neural-networks
+
+**Reference:**
+https://www.ibm.com/cloud/learn/convolutional-neural-networks
 
 # How to Execute?
 So, before execution we have some pre-requisites that we need to download or install i.e., anaconda environment, python and a code editor.
 **Anaconda**: Anaconda is like a package of libraries and offers a great deal of information which allows a data engineer to create multiple environments and install required libraries easy and neat.
-**Download link: **https://www.anaconda.com/
+
+**Download link:**
+https://www.anaconda.com/
 
 **Python**: Python is a most popular interpreter programming language, which is used in almost every field. Its syntax is very similar to English language and even children and learning it nowadays, due to its readability and easy syntax and large community of users to help you whenever you face any issues.
-**Download link: **https://www.python.org/downloads/
+
+**Download link:**
+https://www.python.org/downloads/
 
 **Code editor**: Code editor is like a notepad for a programming language which allows user to write, run and execute program which we have written. Along with these some code editors also allows us to debug, which usually allows users to execute the code line by line and allows them to see where and how to solve the errors. But I personally feel visual code is very good to work with any programming language and makes a great deal of attachment with user.
-**Download links: **
-https://code.visualstudio.com/Download
+
+**Download links:**
+https://code.visualstudio.com/Download, 
 https://www.jetbrains.com/pycharm/download/#section=windows
 
 # Steps to execute.
