@@ -1,0 +1,13 @@
+tkinter
+time
+opencv-python
+tensorflow
+keras
+numpy
+glob
+imageio
+PIL
+matplotlib
+sklearn
+seaborn
+pandas
