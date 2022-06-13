@@ -39,7 +39,7 @@ The model is trained on MRI scanned brain tumor images collected from kaggle dat
 2. Adding path to environment variables in order to run python files and to use anaconda environment in code editor, specifically in visual studio code.
 
 # Evaluation metrics
-Evaluation metrics are considered as one of the most important steps in any machine learning and deep learning projects, where it will allow us to evaluate how good our model is performing on the new data or on unseen data. There are a lot of evaluation metrics such as confusion matrix, roc_auc curver, f1_score, recall, precision and each of which work for specific problem we deal. So, for our project we have gone with confusion matrix the OG of every evaluation matric, where using it, we have calculated the accuracy and other metric, which has given a conclusion that the model is performing very well on new data.
+Evaluation metrics are considered as one of the most important steps in any machine learning and deep learning projects, where it will allow us to evaluate how good our model is performing on the new data or on unseen data. There are a lot of evaluation metrics such as **confusion matrix, roc_auc curver, f1_score, recall, precision** and each of which work for specific problem we deal. So, for our project we have gone with confusion matrix the OG of every evaluation matric, where using it, we have calculated the accuracy and other metric, which has given a conclusion that the model is performing very well on new data.
 
 # Note:
 The Model weights and dataset haven't been provided here since, it didn’t allow us, obviously.
